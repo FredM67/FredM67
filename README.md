@@ -3,6 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://www.supportukraine.co/)
+[![Github: FredM67](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white)](https://github.com/FredM67/)
 [![Linkedin: frédéric-metrich](https://img.shields.io/badge/-frederic--metrich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-metrich/)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-metrich/)
 
 <p>Welcome to my page! </br> I'm Frédéric, or better Fred, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Strasbourg, France</b>, currently working in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Karlsruhe, Germany</b>. </p>
