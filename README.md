@@ -20,4 +20,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=json&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=json&logoColor=white" />
 </p>
