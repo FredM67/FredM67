@@ -24,4 +24,5 @@
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="KiCad" src="https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
 </p>
